@@ -1,2 +1,3 @@
-# therese_dhanya
-Project1_AI_Bootcamp
+# Openspace classifier
+## Challenge - AI Bootcamp 
+### Authors : Therese and Dhanya
